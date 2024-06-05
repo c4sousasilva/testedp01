@@ -10,6 +10,6 @@ FUNCTION z_svrs_get_version.
 *"      VERSION_UNREADABLE
 *"----------------------------------------------------------------------
 
-  DATA: lv_xstring TYPE xstring.
+  DATA: lv_xstring TYPE string.
 
 ENDFUNCTION.
